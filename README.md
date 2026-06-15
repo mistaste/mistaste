@@ -28,7 +28,7 @@ I contribute to the Rust ecosystem — small, focused fixes to widely used tools
 
 ### 🚀 Projects
 
-- **[guardex](https://github.com/mistaste/guardex)** — cross-platform VPN client (Flutter), with [web dashboard](https://github.com/mistaste/guardex-web) (TypeScript) and [backend](https://github.com/mistaste/guardex-backend) (Go)
+- **[Guardex](https://guardex-vpn.com)** — cross-platform VPN product: client (Flutter), web dashboard (TypeScript), backend (Go) · _source private_
 - **[proxy_core](https://github.com/mistaste/proxy_core)** — Flutter plugin for VPN/proxy cores (Xray/Outline), gRPC control, split tunneling
 - **[video-cropper](https://github.com/mistaste/video-cropper)** — GTK/libadwaita app to crop MP4s and export as GIF (Python)
 - **[eucore](https://github.com/mistaste/eucore)** — Minecraft (Paper/Spigot) utility plugin: SmartSleep, lag inspection, waypoints
