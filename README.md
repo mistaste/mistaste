@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Oleh 👋</h1>
-
 <p align="center">
   Systems &amp; full-stack developer from Lviv, Ukraine 🇺🇦<br>
   I build cross-platform apps and contribute to open-source Rust tooling.
