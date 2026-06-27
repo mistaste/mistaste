@@ -17,18 +17,7 @@
 
 ### 🦀 Open Source
 
-I contribute to the Rust ecosystem — small, focused fixes to widely used tools.
-
-**Merged PRs**
-
-- [rust-lang/crates.io#13950](https://github.com/rust-lang/crates.io/pull/13950) — Render Markdown definition lists
-- [uutils/coreutils#12883](https://github.com/uutils/coreutils/pull/12883) — `date`: reject a date string with two timezone abbreviations
-
-**Also contributing to**
-
-- **[rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)** — Rust linter · open PRs improving lint accuracy
-- **[clap-rs/clap](https://github.com/clap-rs/clap)** — Rust CLI argument parser · open builder fix
-- **[uutils/coreutils](https://github.com/uutils/coreutils)** — open fixes for `cksum`, `dd`, `od`, `test`
+I like working close to developer tools, compilers, CLIs, and the Rust ecosystem.
 
 ### 🚀 Projects
 
