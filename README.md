@@ -36,29 +36,29 @@ Issued course completion badges · November 2026 · Click any badge to verify.
 #### OpenAI Academy
 
 <p align="center">
-  <a href="https://oaiacademy.credential.net/7b916e63-0afe-4e1a-b06a-99b8aa6b3aee"><img src="assets/badges/ai-foundations.png" alt="AI Foundations" width="100"></a>
-  <a href="https://oaiacademy.credential.net/98653bc4-1bd5-4539-bb48-8afaf36d9a30"><img src="assets/badges/applied-ai-foundations.png" alt="Applied AI Foundations" width="100"></a>
-  <a href="https://oaiacademy.credential.net/1e56bb35-6309-434d-aa3e-b3ff29b0fbef"><img src="assets/badges/agents-and-workflows.png" alt="Agents and Workflows" width="100"></a>
+  <a href="https://oaiacademy.credential.net/7b916e63-0afe-4e1a-b06a-99b8aa6b3aee"><img src="assets/badges/ai-foundations.png" alt="AI Foundations" width="70"></a>
+  <a href="https://oaiacademy.credential.net/98653bc4-1bd5-4539-bb48-8afaf36d9a30"><img src="assets/badges/applied-ai-foundations.png" alt="Applied AI Foundations" width="70"></a>
+  <a href="https://oaiacademy.credential.net/1e56bb35-6309-434d-aa3e-b3ff29b0fbef"><img src="assets/badges/agents-and-workflows.png" alt="Agents and Workflows" width="70"></a>
 </p>
 
 <p align="center">
-  <a href="https://oaiacademy.credential.net/8c236222-b692-4c55-a18f-73823bd991cb"><img src="assets/badges/get-started-with-codex.png" alt="Get Started with Codex" width="100"></a>
-  <a href="https://oaiacademy.credential.net/6b2545b8-2494-43a5-9224-7879201a0ea4"><img src="assets/badges/extend-codex-workflows.png" alt="Extend Codex Workflows" width="100"></a>
-  <a href="https://oaiacademy.credential.net/b890ea22-c73c-4d66-964f-be7e8c845a78"><img src="assets/badges/scale-codex-across-teams-and-systems.png" alt="Scale Codex Across Teams and Systems" width="100"></a>
+  <a href="https://oaiacademy.credential.net/8c236222-b692-4c55-a18f-73823bd991cb"><img src="assets/badges/get-started-with-codex.png" alt="Get Started with Codex" width="70"></a>
+  <a href="https://oaiacademy.credential.net/6b2545b8-2494-43a5-9224-7879201a0ea4"><img src="assets/badges/extend-codex-workflows.png" alt="Extend Codex Workflows" width="70"></a>
+  <a href="https://oaiacademy.credential.net/b890ea22-c73c-4d66-964f-be7e8c845a78"><img src="assets/badges/scale-codex-across-teams-and-systems.png" alt="Scale Codex Across Teams and Systems" width="70"></a>
 </p>
 
 <p align="center">
-  <a href="https://oaiacademy.credential.net/2c02d9dc-1490-46c9-bec8-86309bccaa8f"><img src="assets/badges/scope-ai-solutions.png" alt="Scope AI Solutions" width="100"></a>
-  <a href="https://oaiacademy.credential.net/bd1ada68-ab3b-411e-ab37-3de803807828"><img src="assets/badges/evaluate-ai-applications.png" alt="Evaluate AI Applications" width="100"></a>
-  <a href="https://oaiacademy.credential.net/77656632-e2b7-4787-8b14-79b2ee534c7e"><img src="assets/badges/design-and-build-agentic-systems.png" alt="Design and Build Agentic Systems" width="100"></a>
-  <a href="https://oaiacademy.credential.net/08ffa426-6e3c-400d-92ef-74fc0c96e501"><img src="assets/badges/build-with-retrieval-augmented-generation.png" alt="Build with Retrieval-Augmented Generation" width="100"></a>
-  <a href="https://oaiacademy.credential.net/ebf6bf71-e924-4030-ab6c-50d5fe071df4"><img src="assets/badges/optimize-ai-application-performance.png" alt="Optimize AI Application Performance" width="100"></a>
+  <a href="https://oaiacademy.credential.net/2c02d9dc-1490-46c9-bec8-86309bccaa8f"><img src="assets/badges/scope-ai-solutions.png" alt="Scope AI Solutions" width="70"></a>
+  <a href="https://oaiacademy.credential.net/bd1ada68-ab3b-411e-ab37-3de803807828"><img src="assets/badges/evaluate-ai-applications.png" alt="Evaluate AI Applications" width="70"></a>
+  <a href="https://oaiacademy.credential.net/77656632-e2b7-4787-8b14-79b2ee534c7e"><img src="assets/badges/design-and-build-agentic-systems.png" alt="Design and Build Agentic Systems" width="70"></a>
+  <a href="https://oaiacademy.credential.net/08ffa426-6e3c-400d-92ef-74fc0c96e501"><img src="assets/badges/build-with-retrieval-augmented-generation.png" alt="Build with Retrieval-Augmented Generation" width="70"></a>
+  <a href="https://oaiacademy.credential.net/ebf6bf71-e924-4030-ab6c-50d5fe071df4"><img src="assets/badges/optimize-ai-application-performance.png" alt="Optimize AI Application Performance" width="70"></a>
 </p>
 
 <p align="center">
-  <a href="https://oaiacademy.credential.net/48389ee8-f435-4e08-88cd-1831d9239b92"><img src="assets/badges/ai-leadership.png" alt="AI Leadership" width="100"></a>
-  <a href="https://oaiacademy.credential.net/5f2e2d28-aa12-42dd-ac14-018961bc4e0d"><img src="assets/badges/ai-for-educators.png" alt="AI for Educators" width="100"></a>
-  <a href="https://oaiacademy.credential.net/2419b70b-d93f-4542-a227-1a0bf5bd5119"><img src="assets/badges/ai-for-college-students.png" alt="AI for College Students" width="100"></a>
+  <a href="https://oaiacademy.credential.net/48389ee8-f435-4e08-88cd-1831d9239b92"><img src="assets/badges/ai-leadership.png" alt="AI Leadership" width="70"></a>
+  <a href="https://oaiacademy.credential.net/5f2e2d28-aa12-42dd-ac14-018961bc4e0d"><img src="assets/badges/ai-for-educators.png" alt="AI for Educators" width="70"></a>
+  <a href="https://oaiacademy.credential.net/2419b70b-d93f-4542-a227-1a0bf5bd5119"><img src="assets/badges/ai-for-college-students.png" alt="AI for College Students" width="70"></a>
 </p>
 
 #### Claude Academy
